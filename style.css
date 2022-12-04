@@ -13,7 +13,7 @@
     font-family:'Lexend Deca';  
   }
 
-  #kind{
+  .kind{
     font-size: 50px;
     text-transform: uppercase;
   
